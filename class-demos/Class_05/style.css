@@ -1,0 +1,59 @@
+.container {;
+	width: 200px;
+	height: 200px;
+	background-color: lavender;
+	margin: 20px;
+	display: inline-block;
+}
+
+body{
+	/* solution for removing scroll on an entire webpage */
+	overflow-y: hidden;
+	font-family: monospace;
+}
+
+/* syntax to grab all the divs that are children of .container class on div */
+div.container > div{
+	width: 75px;
+	height: 75px;
+	background-color: violet;
+	position: static;
+}
+
+.static-child{
+	position: static;
+}
+
+/*adding a , makes rule apply to both classes*/
+/* shorthand for writing the rule twice */
+.relative-child, .relative-parent {
+	position: relative;
+}
+
+.absolute-child{
+	position: absolute;
+	top: 100px;
+	left: 0;
+}
+
+.down-under{
+	position: absolute;
+	top: 2000px;
+}
+
+.big-container{
+	z-index: 999;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
