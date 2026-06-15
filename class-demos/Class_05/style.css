@@ -17,10 +17,10 @@ div.container > div{
 	width: 75px;
 	height: 75px;
 	background-color: violet;
-	position: static;
 }
 
 .static-child{
+	/* this doesn't do anything it is the default*/
 	position: static;
 }
 
