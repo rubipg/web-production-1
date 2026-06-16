@@ -1,3 +1,36 @@
 body{
+	background: linear-gradient(#14FFF7, #0BC9CD, #C879FF);
+}
+
+.maintitle{
+	border: 10px dashed lightyellow;
+	margin: 20px;
+	font-size: 30;
+	color: orangered;
+}
+
+h1{
+	font-family: fantasy;
+	text-align: center;
+	font-size: 45px;
+	margin-top: 25px;
+}
+
+.Centerquestion{
+	text-align: center;
+}
+
+p{
+	font-size: 20px;
+	margin: 40px;
+	font-family: fantasy;
+	font-weight: bold;
+	font-stretch: expanded;
+}
+
+button{
 	background-color: yellow;
+	border: 5px solid darkorange;
+	margin-inline: 10px;
+	align-content: center;
 }
