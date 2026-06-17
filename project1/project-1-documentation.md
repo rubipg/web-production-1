@@ -6,15 +6,15 @@ This gave me a strong foundation to build from because it already had a storylin
 
 For the aesthetic I mainly focused on the colors of the sky in the show:
 
-![alt text](sky.jpg)
+![sky](documentation-img/sky.jpg)
 
 I did also watch a youtube video to remind myself how extreme Plankton thinks of a plan to try to come up with new possibilities of getting the formula BUT at the same time thinking about how Mr.Krab will catch Plankton.
 - https://www.youtube.com/watch?v=KVSrZcQfgfA 
 
 ## Sketches
 
-![alt text](sketch1.jpg)
-![alt text](sketch2.jpg)
+![alt text](documentation-img/sketch1.jpg)
+![alt text](documentation-img/sketch2.jpg)
 
 ## Technical Process
 
