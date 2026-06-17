@@ -13,8 +13,8 @@ I did also watch a youtube video to remind myself how extreme Plankton thinks of
 
 ## Sketches
 
-![alt text](documentation-img/sketch1.jpg)
 ![alt text](documentation-img/sketch2.jpg)
+![alt text](documentation-img/sketch1.jpg)
 
 ## Technical Process
 
