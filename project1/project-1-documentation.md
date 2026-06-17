@@ -1,25 +1,39 @@
 ## Inspiration
 
-I wanted to be really creative but have a strong foundation. I am a dancer so I thought of maybe doing something dance related but I felt with the amount of CSS that I knew and the time that I had, I was not going to statisfy my expectations. So then I turned to childhood shows, specfically Spongebob squarepants. This was the strong foundation that I needed. If you are not familiar with the show, there is a character named Plankton who owns a resturant but doesn't have great businenes and its competitor The Krusty Krab is really succesful. This main idea of the show is Plankton trying to get the secret formula from Mr.Krab. This is a strong foundation to build from because in the show there are very interesting and extreme ways that Plankton thinks of stealing the secret formula. This then open the creative mind for me to really come up with different interesting way to try and get the formula.
+I wanted to be really creative but have a strong foundation. So I turned to childhood shows, specifically Spongebob Squarepants. This was one show that I grew up watching that I liked. This show was the strong foundation that I needed. If you are not familiar with the show, there is a character named Plankton who owns a restaurant but doesn't have great business and its competitor The Krusty Krab that is across the street is really successful. One of the main focus of the show is Plankton trying to get the secret formula from Mr.Krab so that he can put Mr.Krab out of business and bring the revenue to his business. 
 
-I did watch some youtube videos to remind myself how does Plankton think and I tired to think of new possibles way of getting the formula but at the same time thinking about how Mr.Krab will catch Plankton. 
+This gave me a strong foundation to build from because it already had a storyline which I can edit to my liking, a great colorful color palette and a distinct character relationships. The storyline really was where I could dive into my creative juices. Plankton is already creative in planning and executing plans to steal the formula so I was trying to embrace and think like him when choosing a plan. 
+
+For the aesthetic I mainly focused on the colors of the sky in the show:
+
+![alt text](sky.jpg)
+
+I did also watch a youtube video to remind myself how extreme Plankton thinks of a plan to try to come up with new possibilities of getting the formula BUT at the same time thinking about how Mr.Krab will catch Plankton.
+- https://www.youtube.com/watch?v=KVSrZcQfgfA 
 
 ## Sketches
 
-Include any sketches you made *before* you started coding
+![alt text](sketch1.jpg)
+![alt text](sketch2.jpg)
 
 ## Technical Process
 
-What were things you experimented with? Which one put you on your path for your final design?
+This process was quite challenging and time consuming. I felt really good with HTML but when it came to CSS and styling my pages, it was hard. I am just now getting the hand of what `<div>` and `class` are AND the relationship between the HTML page and the style sheet. I personally would need to practice CSS a bit more.
 
-Take screenshots and screen recordings *while you are building* if there are any surprising visual outputs. I use https://ezgif.com/ to convert videos to gifs. 
+One challenge I encountered was uploading and displaying images correctly. Initially, I used the `<img src="image.png">` tag, but the image would not appear because the file path was incorrect. After experimenting, I remembered that I needed to specify the correct folder location using a forward slash (/) in the file path.
 
-Include **snippets** of code that you struggled with. I already see the code inside of github, so you don't need to include the entire code files. 
+Another issue was centering images on the page. Since images are inline elements by default, I changed their display property to block and used margin settings to center them properly. This gave me trouble as well since I had to play with margin-left,margin-right or just margin, but in the end it worked out.
+
+A specific example that I could not figure out was how to center the image that had a `<div class="tunnel">` because I already had a styling for all images `.img`. Now that I am thinking with a clear mind it could be something with the parent and child elements that is not allowing them to be center. OR another reason could be that one has a `display: block;` and the other has `display: inline-block;`. 
+
+Finally, I experimented with centering buttons. Because buttons are also inline elements by default, I placed them inside a flex container and used Flexbox properties to align them in the center of the page. This approach became part of my final design because it provided a reliable and consistent way to position elements. I did want to have them centered horizontally but I could not figure out the coding so I satisfied my desire by having the buttons centered and just accpeting the buttons to be stacked vertically.
 
 ## References
 
-A list of links that you referenced for any code help.
+- Class notes
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/gradient/linear-gradient
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/font-family
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/text-align
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/font-weight
+- https://www.youtube.com/watch?v=5-r6qhixNMo
 
-If you referenced a Youtube tutorial, a StackOverflow forum, a *specific* reference page paste the link into your document.
-
-If you used AI (within the bounds laid out in our [syllabus](https://github.com/samheckle/hunter-web-projection-1-su26/tree/main#use-of-generative-artificial-intelligence-ai-tools)), you will need to include the model, version, prompt, and the link to your chat logs. 
