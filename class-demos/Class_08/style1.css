@@ -1,0 +1,46 @@
+body{
+	/*rem is a unit that is based off user preferences*/
+	/* this applies to zoom */
+	/*1 rem roughly equals 16px, or whatever the user deault is*/
+	/*when we are building respoive text we will be using rem as the unit */
+	font-size: 1rem;
+}
+
+/*we can only use and test by adding viewport in html meta*/
+@media screen and (width <600px){
+	body{
+		font-size: 2rem;
+	}
+}
+
+
+
+/*Display: flex only goes on parent container*/
+.parent-container{
+	display: flex;
+	flex-direction: row;
+	/*Holy grail of centering items on a page*/
+	justify-content: center;
+	align-items: center;
+	/*if i want to center on the entire page*/
+	height: 100%;
+	gap: 30px;
+}
+
+/*We haven't maniuplated the child*/
+span{
+	background: #08bdbd;
+	color: #abffaf;
+	/*we can nest flex as muxh as we want, but text-align will also work for elementsd that only have text*/
+	text-align: center;
+}
+
+.smaller{
+	flex-grow: 1;
+}
+
+.bigger{
+	/*the flex-grow on the bigger element will be whatever size x number you applied (it is a ratio)*/
+	/*eg. 2 will mean the bigger will be 2x the normal size */
+	flex-grow: 2;
+}
