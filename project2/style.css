@@ -1,0 +1,16 @@
+body{
+	background-image: url('project-2-img/water-20.gif');
+	background-position: center;
+	background-size: cover;
+}
+
+h1{
+	font-family: cursive;
+	font-size: 75;
+	color: white;
+
+}
+
+h3{
+	color: white;
+}
