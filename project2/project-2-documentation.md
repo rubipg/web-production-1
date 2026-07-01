@@ -8,8 +8,8 @@ As I began designing, I looked at gemstone photography, ocean imagery, and jewel
 
 ## Sketches
 
-![alt text](documentation#2-img/Sketch#2.jpg)
-![alt text](documentation#2-img/Sketch#1.jpg)
+![alt text](documentation-2-img/Sketch#2.jpg)
+![alt text](documentation-2-img/Sketch#1.jpg)
 
 ## Technical Process
 
@@ -31,8 +31,8 @@ Another challenge was making my design responsive. Before this project, media qu
 
 One idea that I experimented with but ultimately decided not to include was creating a wave-shaped title. Since my poster focuses on Larimar and its connection to the Caribbean Sea, I thought a curved title would reinforce the ocean theme. I followed an online tutorial and successfully created the text path, but the curve was much larger than I wanted. I also struggled to control the spacing of the letters along the path, so the title never looked the way I had envisioned. Rather than spending too much time on one feature that I did not fully understand, I decided to simplify the design and focus on creating a polished, functional poster.
 
-![alt text](documentation#2-img/CurveTitle.png)
-![alt text](documentation#2-img/CurveTitleCode.png)
+![alt text](documentation-2-img/CurveTitle.png)
+![alt text](documentation-2-img/CurveTitleCode.png)
 
 Although my final design is simpler than my original vision, I think this project helped me build a much stronger foundation in Flexbox and responsive design. More importantly, I learned that sometimes the best approach is to master the fundamentals first before trying to create more complex layouts. I now feel much more comfortable using Flexbox and have a better understanding of how media queries allow a webpage to adapt across different screen sizes.
 
