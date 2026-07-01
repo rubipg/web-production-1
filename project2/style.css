@@ -20,7 +20,7 @@ h1{
 h2{
 	color: #03045E;
 	font-family: cursive;
-	font-size: 30px;
+	font-size: 40px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -72,15 +72,14 @@ h2{
 		margin-inline: 20px;
 	}
 	h1{
-		font-size: 40px;
+		font-size: 50px;
 		letter-spacing: 15px;
 	}
 	body{
-		background-size: cover;
 		border: dashed 10px #03045E;
 	}
 	h2{
-		font-size: 22px;
+		font-size: 30px;
 		text-align: center;
 		padding: 10px;
 	}
