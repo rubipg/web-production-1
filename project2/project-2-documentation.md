@@ -8,8 +8,8 @@ As I began designing, I looked at gemstone photography, ocean imagery, and jewel
 
 ## Sketches
 
-![alt text](documentation-2-img/Sketch#2.jpg)
-![alt text](documentation-2-img/Sketch#1.jpg)
+![alt text](documentation-2-img/Sketch2.jpg)
+![alt text](documentation-2-img/Sketch1.jpg)
 
 ## Technical Process
 
