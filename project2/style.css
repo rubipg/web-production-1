@@ -3,11 +3,12 @@ body{
 	background-position: center;
 	background-size: cover;
 	border: dashed 15px #03045E;
+	overflow-x: hidden;
 }
 
 h1{
 	font-family: fantasy;
-	font-size: 100;
+	font-size: 80;
 	color: white;
 	letter-spacing: 50px;
 	display: flex;
@@ -34,6 +35,31 @@ h2{
 
 .container{
 	display: flex;
-	flex-direction: column;
-	color: black;
+	flex-direction: row;
+	gap: 50px;
+	color: navy;
+	margin-inline: 95px;
+	background: skyblue;
+	font-family: fantasy;
+	font-size: 20px;
+	border: white solid;
+	padding: 10px;
 }
+
+.Factcontainer{
+	display: flex;
+	background-color: navy;
+	font-family: fantasy;
+	font-size: 20px;
+	color: white;
+	border: skyblue solid 5px;
+	margin-inline: 200px;
+	padding: 5px;
+}
+
+
+
+
+
+
+
