@@ -2,15 +2,38 @@ body{
 	background-image: url('project-2-img/water-20.gif');
 	background-position: center;
 	background-size: cover;
+	border: dashed 15px #03045E;
 }
 
 h1{
-	font-family: cursive;
-	font-size: 75;
+	font-family: fantasy;
+	font-size: 100;
 	color: white;
+	letter-spacing: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0;
 
 }
 
-h3{
-	color: white;
+h2{
+	color: #03045E;
+	font-family: cursive;
+	font-size: 30;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.Larimar{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.container{
+	display: flex;
+	flex-direction: column;
+	color: black;
 }
