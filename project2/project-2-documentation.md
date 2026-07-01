@@ -7,9 +7,8 @@ Ultimately, I chose Larimar because I felt it would be more impactful to focus o
 As I began designing, I looked at gemstone photography, ocean imagery, and jewelry advertisements featuring Larimar. I searched for keywords such as “Larimar aesthetic" "ocean blue color palette”, "gemstone photography,". I was especially inspired by the vibrant blues, clean layouts, and the contrast between the white patterns in the stone and the deep blue water. Rather than creating a busy webpage, I wanted the design to feel clean, calming, and elegant, allowing the gemstone itself to become the focal point while reflecting the natural beauty of the Dominican Republic.
 
 ## Sketches
-
-![alt text](documentation-2-img/Sketch2.jpg)
 ![alt text](documentation-2-img/Sketch1.jpg)
+![alt text](documentation-2-img/Sketch2.jpg)
 
 ## Technical Process
 
