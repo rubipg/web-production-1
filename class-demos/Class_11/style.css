@@ -1,0 +1,15 @@
+/*style ALL the p tags */
+p{
+	font-family: fantasy;
+}
+
+/*class selector uses .*/
+.red-paragraph{
+	background: #BF1A2F;
+	color: #f7d002;
+}
+
+/* id selector uses # */
+#big-paragraph{
+	font-size: 40px;
+}
