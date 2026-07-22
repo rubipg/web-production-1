@@ -117,11 +117,10 @@
 	}
 }
 
-/*NEED TO CENTER IT */
 .playbill-header{
-	text-align: center;
+	align-content: center;
     padding: 50px;
-    margin-bottom: 40px;
+    margin: 40px auto;
     width: 80%;
     border: 3px solid #c9a227;
 }
@@ -134,18 +133,18 @@
     margin-bottom: 10px;
 }
 
-.subtitle{
+.subtitle {
 	font-size: 24px;
     font-style: italic;
     letter-spacing: 2px;
+    text-align: center;
 }
 
-/*NEED TO CENTER IT */
 .divider{
 	width: 60%;
     height: 2px;
     background-color: #c9a227;
-    margin: 30px;
+    margin: 30px auto;
 }
 
 h1{
@@ -158,16 +157,16 @@ h1{
 
 p{
 	text-align: center;
+	text-align: left;
     font-family: Georgia, serif;
 }
 
 .program-note{
-	position: absolute;
-	left: 150px;
-	width: 70%;
-    margin: 40px;
+	width: 75%;
+    margin: 0px auto;
     line-height: 1.8;
     font-size: 18px;
+    padding-bottom: 120px;
 }
 
 .program-note h2{
@@ -176,6 +175,7 @@ p{
     letter-spacing: 3px;
     text-transform: uppercase;
     margin-bottom: 20px;
+    margin-top: 60px;
 }
 
 .program-note h4{
@@ -184,3 +184,39 @@ p{
     letter-spacing: 3px;
     text-transform: uppercase;
 }
+
+.aboutButton button {
+	background-color: black;
+  	border: none;
+  	color: white;
+  	font-family: Georgia, serif;
+  	letter-spacing: 2px;
+  	text-shadow:5px 5px 6px purple ;
+  	padding: 15px 32px;
+  	text-align: center;
+ 	font-size: 19px;
+  	cursor: pointer;
+}
+
+.ClockButton{
+	text-align: center;
+	padding-bottom: 20px;
+}
+.ClockButton button{
+	background-color: black;
+  	border: none;
+  	color: white;
+  	font-family: Georgia, serif;
+  	letter-spacing: 2px;
+  	text-shadow:5px 5px 6px purple ;
+  	padding: 15px 32px;
+  	text-align: center;
+ 	font-size: 19px;
+  	cursor: pointer;
+}
+
+
+
+
+
+
