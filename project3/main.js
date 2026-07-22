@@ -95,7 +95,7 @@ function updatePose(){
 	 	 hour=11;
 	 }
 
-	poseImage.src="img/pose" + hour + ".jpg";
+	poseImage.src="Img/pose" + hour + ".jpg";
 
 }
 
