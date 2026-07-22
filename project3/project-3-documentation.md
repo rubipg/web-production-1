@@ -30,16 +30,25 @@ Throughout the project, I also experimented with page layout, typography, and sp
 
 Here were some attempts of layout and design that did not make the cut
 ![alt text](doc-img/typolayout.png)
+Above, I was debating if I should have the purple background but in the end I decided not to keep it because it was to distracting.
 ![alt text](doc-img/border.png)
+Above, I was seeing how the pose would look like with a border. I like how it looked but the problem at that moment was it was center anymore. Pior to the code, it had a display of flex and all the other syntax to center the image but once I put the border it overide the display of flex. 
 ![alt text](doc-img/divcover.png)
-
+Above, in my ideal world, I would have wanted a div that would be transparent so that you don't see the "square" moving but rather just see the purple fabric reveal "out of nowhere" type of thing. In this screenshot, I tried a curtain to stay in the dance world but it was too much.
 
 Looking back, I realized that much of the technical process involved simplifying ideas that were initially too ambitious. Instead of trying to implement every feature I imagined, I focused on making the interactions I did include work well. That decision allowed me to create a project that was both functional and true to my original concept of experiencing time through movement rather than numbers.
 
 
-
-
-
 ## References
 - Class notes and demos
-- 
+- https://www.youtube.com/watch?v=YEmdHbQBCSQ
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/font-family
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/text-transform
+- https://www.w3schools.com/js/js_operators.asp
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Animations/Using 
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@keyframes
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/text-shadow
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/margin
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/letter-spacing
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/font-style
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/border
