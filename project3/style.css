@@ -1,5 +1,5 @@
 .clockPage{
-	background-image:url(img/stage.jpg) ;
+	background-image:url('img/stage.jpg') ;
 	background-repeat: no-repeat;
 	background-size: cover;
 	overflow-y: hidden;
